@@ -1,57 +1,81 @@
 # Welcome to My GitHub Profile 👋
 
-## 🚀 About Me
-I am a **technologist, developer, and researcher** with a deep passion for **artificial intelligence, computational simulations, automation, and hardware acceleration**. My work focuses on designing **scalable, high-performance systems** that integrate **machine learning, optimization strategies, and intelligent automation** to solve real-world problems.
+## 🚀 About Me  
+I’m a **full-stack developer and AI researcher** passionate about building **high-performance systems** that blend **machine learning, hardware acceleration, and automation**. I specialize in solving complex problems through **computational simulations, optimization, and intelligent design**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sane-RK9&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sane-RK9&layout=compact&theme=radical)
-
-### 🔥 Areas of Expertise
-- **Artificial Intelligence & Deep Learning**: Skilled in **TensorFlow, JAX, NumPy, and CUDA**, specializing in developing and optimizing neural networks.
-- **Backend Systems & Software Engineering**: Building **robust, scalable web applications** using **Django** and advanced backend architectures.
-- **Mathematical Modeling & Computational Simulations**: Applying **advanced calculus, vector calculus, and physics-based simulations** for problem-solving.
-- **High-Performance Computing & Optimization**: Implementing **asynchronous programming, multithreading, and multiprocessing** to enhance computational efficiency.
-- **Electronics & Embedded Systems**: Utilizing a **strategic, high-yield learning approach** to rapidly master embedded technologies.
-- **Automation & AI Assistants**: Developing open-source intelligent systems to **streamline workflows and optimize productivity**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sane-RK9&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sane-RK9&layout=compact&theme=radical&hide_border=true)
 
 ---
-## 🏆 Notable Projects
 
-### 📄 PDF Summarizer (Django, AI, Milvus)
-A **cutting-edge document analysis system** that:
-- Extracts **semantically meaningful insights** from textual content.
-- Generates **contextually relevant questions** using advanced NLP models.
-- Provides **validated citations** for increased accuracy and credibility.
-- Utilizes **RoBERTa, BART, and Milvus** to drive deep learning-powered summarization and similarity search.
-
-### 🤖 Automate This
-An **intelligent automation assistant** built to:
-- **Analyze user behavior** and suggest **context-aware task automation**.
-- Ensure **full transparency and user control** through open-source development.
-- Operate seamlessly across **desktop and mobile platforms** for maximum integration.
-
----
-## 🚧 Ongoing Research & Development
-- Enhancing my expertise in **Git, Docker, and CI/CD pipelines** to improve DevOps efficiency.
-- Exploring **real-world applications of computational simulations and high-performance computing**.
-- Deepening my knowledge of **transformer-based architectures and AI model optimization**.
+### 🔧 **Technologies & Tools**  
+**AI/ML**:  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-F37626?logo=jax&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+**Backend**:  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+**HPC**:  
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-006699?logo=openmpi&logoColor=white)  
+**Embedded**:  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 
 ---
-## 🌱 2025 Research Goals
-- Develop a **fully functional AI-powered automation platform**.
-- Architect and implement a **high-speed, ML-powered search engine**.
-- Optimize **hardware acceleration methodologies** for AI-driven workloads.
-- Achieve proficiency in **advanced embedded systems programming and electronics design**.
+
+## 🏆 **Notable Projects**
+
+### 📄 [PDF Summarizer](https://github.com/your-repo-link) (Django • NLP • Milvus)  
+A semantic search engine for documents that:  
+✅ Uses **RoBERTa** and **BART** for context-aware summarization.  
+✅ Generates citation-backed answers via **Milvus vector DB**.  
+✅ Features a Django backend with async task processing.  
+
+![Demo](https://via.placeholder.com/600x300?text=Demo+GIF+/+Screenshot) *Replace with your demo media*
+
+### 🤖 [Automate This](https://github.com/your-repo-link) (Open-Source AI Assistant)  
+An intelligent workflow optimizer that:  
+🔍 Analyzes user behavior to suggest automations.  
+🧠 Runs entirely on-device for privacy (no cloud dependency).  
+🌐 Cross-platform compatibility (Windows, Linux, Android).
 
 ---
-## 📌 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sane-RK9&theme=radical)
+
+## 🚀 **Research & Development**  
+- **Optimizing Transformers**: Reducing inference latency for LLMs using JAX and CUDA kernels.  
+- **Physics-Informed ML**: Building hybrid models for fluid dynamics simulations.  
+- **AI-Driven Automation**: Designing ethical, transparent assistants for workflow optimization.
 
 ---
-## 💬 Connect with Me
-🔗 **LinkedIn**: https://www.linkedin.com/in/rishabh-kumar-80028b336/  
-🐙 **GitHub**: https://github.com/sane-RK9  
-🎮 **Discord**: Riord#8256   
 
-I'm always open to collaborating on **AI, computational simulations, and next-generation automation solutions**. Let's innovate together! 🚀
+## 🌱 **2025 Goals**  
+| Goal                          | Key Technologies           |
+|-------------------------------|----------------------------|
+| AI Automation Platform        | Rust, ONNX, Kubernetes     |
+| ML-Powered Search Engine      | FAISS, Transformer Models  |
+| Embedded Systems Mastery      | RTOS, FPGA, Altium Designer|
 
+---
+
+## 📊 **Activity**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sane-RK9&theme=radical&hide_border=true)
+
+---
+
+## 🤝 **Let’s Collaborate!**  
+I’m actively seeking partnerships in:  
+- **AI/ML**: Physics-informed neural networks, model optimization.  
+- **HPC**: Distributed systems, GPU acceleration.  
+- **Automation**: Ethical, human-centric workflow tools.
+
+---
+
+## 📫 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kumar-80028b336/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/Riord#8256)
+
+**Let’s push the boundaries of what’s possible with AI and automation!** 🚀
+
+ 
