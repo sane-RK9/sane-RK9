@@ -51,7 +51,7 @@ An **intelligent automation assistant** built to:
 ## 💬 Connect with Me
 🔗 **LinkedIn**: https://www.linkedin.com/in/rishabh-kumar-80028b336/  
 🐙 **GitHub**: https://github.com/sane-RK9  
-🐦 **Twitter/X**: [Your Twitter/X Handle]  
+🎮 **Discord**: Riord#8256   
 
 I'm always open to collaborating on **AI, computational simulations, and next-generation automation solutions**. Let's innovate together! 🚀
 
