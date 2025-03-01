@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sane-RK9&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sane-RK9&layout=compact&theme=radical)
-
 ## 🚀 About Me
 I am a **technologist, developer, and researcher** with a deep passion for **artificial intelligence, computational simulations, automation, and hardware acceleration**. My work focuses on designing **scalable, high-performance systems** that integrate **machine learning, optimization strategies, and intelligent automation** to solve real-world problems.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sane-RK9&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sane-RK9&layout=compact&theme=radical)
 
 ### 🔥 Areas of Expertise
 - **Artificial Intelligence & Deep Learning**: Skilled in **TensorFlow, JAX, NumPy, and CUDA**, specializing in developing and optimizing neural networks.
